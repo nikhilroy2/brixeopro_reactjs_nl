@@ -20,3 +20,6 @@ Please include in your application:
 - Any suggestions you may have for improving the website
 
 The successful freelancer will have a proven track record of creating modern, user-friendly websites, with a particular emphasis on using React."
+
+
+Live link: https://brixnl.netlify.app/

@@ -30,7 +30,7 @@ export function Header() {
     },
   ];
   return (
-    <header>
+    <header className="shadow-lg">
       <div className="container mx-auto my-3 flex items-center justify-between">
         <img
           className="h-[57px]"
